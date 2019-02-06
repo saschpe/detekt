@@ -202,6 +202,9 @@ formatting:
   active: true
   android: false
   autoCorrect: true
+  AnnotationOnSeparateLine:
+    active: true
+    autoCorrect: true
   ChainWrapping:
     active: true
     autoCorrect: true
@@ -275,6 +278,9 @@ formatting:
     active: true
     autoCorrect: true
   SpacingAroundCurly:
+    active: true
+    autoCorrect: true
+  SpacingAroundDot:
     active: true
     autoCorrect: true
   SpacingAroundKeyword:
